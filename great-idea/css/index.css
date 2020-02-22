@@ -203,3 +203,18 @@ header {
 	text-align: center;
 	font-size: 14px;
   }
+
+  /* SERVICES PAGE */ 
+
+  .services-text {
+	  border: 1px solid; 
+	  background-color:lightgrey;
+	  margin-top: 37px;
+	  padding: 10px 10px;
+	
+  }
+
+  .services-offerings {
+	  display: flex;
+	  justify-content: space-between;
+  }
