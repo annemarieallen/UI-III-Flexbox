@@ -262,9 +262,7 @@ header {
 	width:45%;
 }
 
-.services-info-img{
-	width: 30%;
-}
+
 
 .facts-section {
 	display: flex;
@@ -276,3 +274,20 @@ header {
 	margin-top: 20px;
 }
 
+.list li {
+	margin: 10px;
+}
+
+
+/* Trying to Resize Bottom Photo */ 
+
+
+.services-info-img {
+	max-width: 40%;
+		height: auto;
+}
+
+/*last attempt
+.services-info-img{
+	width: 30%;
+}
